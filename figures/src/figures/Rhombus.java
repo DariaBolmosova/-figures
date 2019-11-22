@@ -4,8 +4,8 @@ public class Rhombus extends Rectangle {
     private int height;
 
 
-    public Rhombus(int a, int b, int height) {
-        super(a, b);
+    public Rhombus(int a, int height) {
+        super(a, a);
         this.height = height;
     }
 
