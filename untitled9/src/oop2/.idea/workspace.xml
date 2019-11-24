@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b104940c-3767-45bb-9064-aecfcfb920e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first/first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first/out/production/first/org/hillel/task1/task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first/src/org/hillel/task1/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hillel.hometask2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hillel.task1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/out/production/homework/META-INF/homework.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/out/production/homework/comhilleltask4/Calc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/out/production/homework/comhilleltask4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/src/comhilleltask4/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../homework/src/comhilleltask4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java.elementary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../learning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/.idea/programm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/decoded.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/slave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/tcpmaster_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/tcpslave_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../programm/untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/javatask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/out/production/untitled/META-INF/untitled.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/out/production/untitled/com/company/Start.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/src/com/company/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled1/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/META-INF/untitled10.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hilellleson5/TestCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hilelllesson1/Battery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hilelllesson1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hilelllesson1/TestBattery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hilelllesson1/TestWatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hilelllesson1/Watch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hillellesson4/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hillellesson4/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hillellesson4/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hillellesson4/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hillellesson4/Toy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/out/production/untitled10/hillellesson4/ToyTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/BD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hilelleson8/IntegerHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hilellleson5/TestCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hilelllesson1/Battery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hilelllesson1/Demension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hilelllesson1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hilelllesson1/TestBattery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hilelllesson1/TestWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hilelllesson1/Watch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hilelllesson20/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillelesson11/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillelesson11/DeliveryState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillelesson11/Letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillelesson11/LetterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillelesson11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillelesson11/OrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillelesson11/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillellesson10/CharString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillellesson4/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillellesson4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillellesson4/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillellesson4/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillellesson4/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/hillellesson4/ToyTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/src/javahillellesson12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled10/untitled10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/.idea/untitled13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/out/production/untitled13/hilleltask2/Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/out/production/untitled13/hilleltask2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/src/hilleltask2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/src/hilleltask2/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/src/hilleltask2/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/src/hilleltask2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled13/untitled13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled13/untitled3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled2/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/out/production/untitled3/BitInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/out/production/untitled3/BitOutputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/out/production/untitled3/Lz78.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/out/production/untitled3/META-INF/untitled3.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/out/production/untitled3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/out/production/untitled3/Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/src/BitInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/src/BitOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/src/Lz78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/src/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/out/production/untitled4/com/company/BitInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/out/production/untitled4/com/company/BitOutputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/out/production/untitled4/com/company/Lz78.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/out/production/untitled4/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/out/production/untitled4/com/company/Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/src/com/company/BitInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/src/com/company/BitOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/src/com/company/Lz78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/src/com/company/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled4/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled5/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled5/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled5/out/production/untitled5/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled5/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled5/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/out/production/untitled6/com/company/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/out/production/untitled6/com/company/Start.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/src/com/company/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/src/com/company/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled6/untitled6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled7/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled7/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled7/out/production/untitled7/hometask1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled7/src/hometask1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled7/untitled7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled8/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled8/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled8/out/production/untitled8/classworkhillel/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled8/src/classworkhillel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled8/untitled8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/META-INF/untitled9.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOP/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOP/Monitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOP/Monitor2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesoon18_linkedlist/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesoon18_linkedlist/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesoon18_linkedlist/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesoon18_linkedlist/PersonComporator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson14/ClassA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson14/ClassB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson14/ClassC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson14/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson16/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson16/DemoJSF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson16/DynamicArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson17/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson17/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson18/CreditHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/OOPLesson18/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/classwork/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/comhilleltask4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/comhilleltask4/helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop2/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop2/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop2/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop2/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop2/Parrot$ParrotColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop2/Parrot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop2/SmallCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop2/SpeakingParrot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop2/Warm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop3Lesson13/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop3Lesson13/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop3Lesson13/Bookshelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop3Lesson13/Data$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop3Lesson13/Data$Days.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop3Lesson13/Data$Seasons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop3Lesson13/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop3Lesson13/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/oop3Lesson13/Demp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/string/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/untitled9/stringdemo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/Monitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesoon18_linkedlist/.idea/OOPLesoon18_linkedlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesoon18_linkedlist/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesoon18_linkedlist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesoon18_linkedlist/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesoon18_linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesoon18_linkedlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesoon18_linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesoon18_linkedlist/PersonComporator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson14/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson14/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson14/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson14/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson16/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson16/DemoJSF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson16/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson17/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson17/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson18/CreditHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLesson18/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comhilleltask4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comhilleltask4/helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/oop2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmallCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpeakingParrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Warm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3Lesson13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3Lesson13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3Lesson13/.idea/oop3Lesson13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3Lesson13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3Lesson13/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3Lesson13/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3Lesson13/Bookshelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3Lesson13/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3Lesson13/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3Lesson13/Demp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stringdemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled9.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <element signature="e#58#59#0" expanded="true" />
+                <element signature="e#111#112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpeakingParrot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Warm.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Car.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Driver.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Parrot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SmallCat.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="15" />
+    <option name="width" value="1210" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oop2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oop3Lesson13" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b104940c-3767-45bb-9064-aecfcfb920e3" name="Default Changelist" comment="" />
+      <created>1566814102951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566814102951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="12" y="0" width="968" height="612" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11894273" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpeakingParrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Warm.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Car.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Driver.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmallCat.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
